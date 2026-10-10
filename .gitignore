@@ -49,4 +49,5 @@ $RECYCLE.BIN/
 # Environment variables
 .env
 
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows
